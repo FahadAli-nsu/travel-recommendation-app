@@ -1,0 +1,73 @@
+{
+  "beaches": [
+    {
+      "name": "Matira Beach, Bora Bora",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80&auto=format",
+      "description": "A crescent of pale sand fringed by turquoise lagoon water, with Mount Otemanu rising in the distance. Best visited at low tide when the sandbar stretches far into the sea."
+    },
+    {
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=800&q=80&auto=format",
+      "description": "A four-kilometre arc of Rio's most famous shoreline, backed by mosaic promenades and mountain views. Arrive early for a quiet swim before the beach volleyball games begin."
+    }
+  ],
+  "temples": [
+    {
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80&auto=format",
+      "description": "The largest religious monument in the world, its five lotus-bud towers reflected in surrounding moats at sunrise. Wear covered shoulders and knees to enter the inner sanctuary."
+    },
+    {
+      "name": "Fushimi Inari Taisha, Kyoto",
+      "imageUrl": "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=800&q=80&auto=format",
+      "description": "Thousands of vermilion torii gates climb the wooded slopes of Mount Inari, each donated by a business seeking prosperity. The full loop takes about two hours on foot."
+    }
+  ],
+  "countries": [
+    {
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney",
+          "imageUrl": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=800&q=80&auto=format",
+          "description": "Home to the sail-shaped Opera House and the harbour bridge climb, with sandstone cliffs and surf beaches just a short train ride from downtown."
+        },
+        {
+          "name": "Cairns",
+          "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format",
+          "description": "The gateway to the Great Barrier Reef, where rainforest meets coral sea. Day boats depart daily for snorkelling and diving among the outer reefs."
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo",
+          "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80&auto=format",
+          "description": "A city of neon crossings and quiet backstreet shrines, where centuries-old tea houses sit beside some of the tallest towers in Asia."
+        },
+        {
+          "name": "Kyoto",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&q=80&auto=format",
+          "description": "Japan's former imperial capital, with over a thousand temples, preserved geisha districts, and cherry blossoms lining the Philosopher's Path each spring."
+        }
+      ]
+    },
+    {
+      "name": "Peru",
+      "cities": [
+        {
+          "name": "Cusco",
+          "imageUrl": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800&q=80&auto=format",
+          "description": "The former capital of the Inca Empire, built atop stone foundations so precise a blade cannot slip between the blocks. The launch point for treks to Machu Picchu."
+        },
+        {
+          "name": "Lima",
+          "imageUrl": "https://images.unsplash.com/photo-1531968455001-5c5272a41129?w=800&q=80&auto=format",
+          "description": "A coastal capital famous for its ceviche and clifftop parks overlooking the Pacific, where paragliders drift above the Miraflores boardwalk each evening."
+        }
+      ]
+    }
+  ]
+}

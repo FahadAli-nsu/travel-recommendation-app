@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Farflung Travel | Find your next trip</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a href="index.html" class="brand">Far<span>flung</span></a>
+      <ul class="menu">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-inner">
+      <div>
+        <div class="stamp">HAND<br>PICKED</div>
+        <h1>Recommendations from people who've actually been there.</h1>
+        <p class="lede">
+          Farflung is a small, opinionated guide to beaches, temples, and
+          cities worth building a trip around. Search a category or a
+          country below and we'll show you where to go and why.
+        </p>
+      </div>
+      <div class="hero-art">
+        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=900&q=80&auto=format" alt="Turquoise lagoon and white sand beach">
+      </div>
+    </div>
+  </section>
+
+  <section class="search-section">
+    <div class="search-panel">
+      <div>
+        <h3 style="margin-bottom:4px; font-size:1.05rem;">What are you in the mood for?</h3>
+        <p class="hint">Try "beach", "temple", or a country like Japan, Australia, or Peru.</p>
+      </div>
+      <form id="search-form" class="search-form">
+        <input type="text" id="search-input" name="search" placeholder="Search destinations..." autocomplete="off">
+        <button type="submit" class="btn btn-primary">Search</button>
+        <button type="button" id="clear-btn" class="btn btn-ghost">Clear</button>
+      </form>
+    </div>
+  </section>
+
+  <section class="results-section">
+    <p id="results-heading" class="results-heading"></p>
+    <div id="results-grid" class="results-grid"></div>
+  </section>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Farflung Travel. Built for the Travel Recommendation final project.</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
